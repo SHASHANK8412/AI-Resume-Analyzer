@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI Resume Analyzer & ATS Checker
 
 A powerful AI-powered resume analysis tool that compares your resume against a job description, gives you an ATS match score, identifies skill gaps, and generates personalized interview questions — all powered by **Groq LLM**.
@@ -120,3 +121,6 @@ MIT License — feel free to use, modify, and distribute.
 ## 🙋 Author
 
 **Shashank** — [GitHub](https://github.com/SHASHANK8412)
+=======
+# AI-Resume-Analyzer
+>>>>>>> 4cac4384c636905079219405d4f17fd5b797b30a
